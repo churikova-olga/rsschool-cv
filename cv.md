@@ -3,10 +3,14 @@
 
 | <img width="280px" heigth="180px" src="https://sun9-east.userapi.com/sun9-28/s/v1/ig2/iyQ-akunjUlt_3hY72Jyyyzx83krSt3kV7yV9kMmt9NlO7ykpZZNXKSyP8Jda0pAeEFCFNjijTfOdMijRTIr5bM1.jpg?size=1708x2160&quality=96&type=album"/>      | <p align="left"> Здравствуйте! Я <i> Чурикова Ольга </i> и сейчас расскажу о себе. <br> Я студент-бакалавр по направлению "Информационные системы итехнологии", крайне заинтересована впрограммировании и веб-разработке. Постоянно в поиске новых знаний. </p> |
 | ------------- |:------------------:|
+# КОНТАКТЫ
+**discord - olga churikova#7093**  
 
+**telegram - @anice2000**
 
 # НАВЫКИ
 
+- Английский язык - А2
 - HTML/CSS
 - PHP
 - TypeScript
